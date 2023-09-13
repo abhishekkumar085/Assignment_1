@@ -1,0 +1,6 @@
+Comments in html?
+
+# Comments are a helpful tool for documenting your HTML code and making it more understandable for yourself and other developers who might work with the code in the future.
+
+# comments are not showing on web browser.
+# content is not geting render on the browser

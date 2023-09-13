@@ -1,0 +1,14 @@
+1.tag?
+Ans: An HTML tag is  used to indicate the beginning and end of an HTML element in an HTML document.
+
+<> </>
+<p></p>
+this is example of tag.
+
+
+2. what is element?
+Ans: Elements are made up of tags and the content they enclose. Elements consist of an opening tag, the content, and a closing tag.
+
+example:
+<h1>this is heading</h1>
+the whole things is called element.
